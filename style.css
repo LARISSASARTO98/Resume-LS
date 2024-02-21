@@ -3,28 +3,31 @@ html {
   width: 100%;
 }
 .container{
-  width: 85%;
-  margin: 0 auto;
+  width: 900px;
+  margin: 0 auto;  
+}
+
+.profile-image {
+    width: 60%;
+}
+
+.profile-image img {
+  width: 100%;
+}
+
+.resume-header {
+  display: flex;
+}
+
+.resume-main {
+  display: flex;
+}
+
+.sidebar {
+  width: 30%;
+}
+
   
-}
-
-  .education{
-    Width: 85%;
-    margin:  0 auto;
-  
-  }
-
- .Skills{
-   Width: 85%;
-   margin:  0 auto;
-   
-}
-
-.Achievements{
-  Width: 85%;
-  margin:  0 auto;
-}
-
   
 
 
